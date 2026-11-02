@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>California US Congressional Districts Map 2020</title>
+                <onlink>https://services3.arcgis.com/uknczv4rpevve42E/arcgis/rest/services/California_US_Congressional_Districts_Map_2020/FeatureServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Final approved map by the 
+2020 California Citizens Redistricting Commission for California's 
+United States Congressional Districts; the authoritative and official delineations of California's 
+United States Congressional Districts drawn during the 2020 redistricting cycle. The
+ Citizens Redistricting Commission for the State of California has 
+created statewide district maps for the State Assembly, State Senate, 
+State Board of Equalization, and United States Congress in accordance, 
+with the provisions of Article XXI of the California Constitution. The 
+Commission has approved the final maps and certified them to the 
+Secretary of State.Line
+ drawing criteria included population equality as required by the U.S. 
+Constitution, the Federal Voting Rights Act, geographic contiguity, 
+geographic integrity, geographic compactness, and nesting. Geography was
+ defined by U.S. Census Block geometry.Each of the 52 Congressional districts apportioned to California have an ideal population of 760,066, and the Commission adhered to federal constitutional mandates by requiring a district population deviation of no more than +/- one person. These districts also posed some of the Commission’s biggest challenges, and, because of strict population equality requirements, resulted in many more splits of counties, cities, neighborhoods, and communities of interest compared to State Assembly or Senate plans.</abstract>
+            <purpose>Final approved map by the 2020 California Citizens Redistricting Commission for California's United States Congressional Districts.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>California US Congressional Districts Map 2020</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>None</useconst>
+        <datacred>2020 California Citizens Redistricting Commission (CRC)</datacred>
+    </idinfo>
+    <eainfo>
+        <detailed>
+            <attr>
+                <attrlabl>AREA</attrlabl>
+                <attrdef>Area of the district in sq miles</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>DISTRICT</attrlabl>
+                <attrdef>Assigned District number</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>MEMBERS</attrlabl>
+                <attrdef>Maptitude-generated field; allows user to assign member to district</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>LOCKED</attrlabl>
+                <attrdef>Maptitude-generated field; Locked geography</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+                <attrdef>District Name</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>POPULATION</attrlabl>
+                <attrdef>Total Persons</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>CVAP_19</attrlabl>
+                <attrdef>Citizens Voting Age Population, as estimated by the American Communities Survey 2019</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>HSP_CVAP_1</attrlabl>
+                <attrdef>Citizen Voting Age Population: Hispanic or Latino</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>DOJ_NH_BLK</attrlabl>
+                <attrdef>Race (non-Hispanic): DOJ (Federal Register 1/18/2001) Summary: Black (including Black and White)|2020 PL94-171:P0020006 + P0020013</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>DOJ_NH_ASN</attrlabl>
+                <attrdef>Race (non-Hispanic): DOJ (Federal Register 1/18/2001) Summary: Asian (including Asian and White)|2020 PL94-171:P0020008 + P0020015</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>NH_WHT_CVA</attrlabl>
+                <attrdef>Citizen Voting Age Population: Not Hispanic or Latino: White Alone</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>IDEAL_VALU</attrlabl>
+                <attrdef>Ideal district population (total population/number of total districts)</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>DEVIATION</attrlabl>
+                <attrdef>Deviation from ideal district size (in number of persons)</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>F_DEVIATIO</attrlabl>
+                <attrdef>% Deviation (district population/ideal district size)</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>MULTIPLE_F</attrlabl>
+                <attrdef>Multiple fields label: district number and deviation in number of people</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>F_CVAP_19</attrlabl>
+                <attrdef>% Citizen Voting Age Population: Total</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>F_HSP_CVAP</attrlabl>
+                <attrdef>% Citizen Voting Age Population: Hispanic or Latino</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>F_DOJ_NH_B</attrlabl>
+                <attrdef>% Citizen Voting Age Population: Not Hispanic or Latino: Black or African American Alone</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>F_DOJ_NH_A</attrlabl>
+                <attrdef>% Citizen Voting Age Population: Not Hispanic or Latino: Asian Alone</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>F_NH_WHT_C</attrlabl>
+                <attrdef>% Citizen Voting Age Population: Not Hispanic or Latino: White Alone</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>DISTRICT_L</attrlabl>
+                <attrdef>District Label</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>DISTRICT_N</attrlabl>
+                <attrdef>District Number</attrdef>
+                <attrdefs>2020 California Citizens Redistricting Commission (CRC)</attrdefs>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20230214</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
